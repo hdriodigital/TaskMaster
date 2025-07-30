@@ -1,0 +1,28 @@
+
+{
+  "name": "ClientPro - Gestão Financeira",
+  "short_name": "ClientPro",
+  "description": "Aplicativo completo para gestão financeira pessoal e empresarial",
+  "theme_color": "#6366f1",
+  "background_color": "#1e1b4b",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["finance", "productivity", "business"],
+  "lang": "pt-BR"
+}
